@@ -49,8 +49,11 @@ créer un nouveau repertoire sur github en faisant un copier coller du dossier d
     git comit -a
     git fetch
     
-    
-
+  resolution integrer fichier dans main  
+git pull origin main --allow-unrelated-histories
+git add readme.md
+git comit -a
+git push origin main
 
 
        
